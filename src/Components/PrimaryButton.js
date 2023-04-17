@@ -8,7 +8,6 @@ function PrimaryButton(props) {
     let minWidth = props.minWidth === undefined ? '144px' : props.minWidth; 
     const Button = styled.div`
         background: #3B82F6;
-        border: 1px solid #152842;
         box-shadow: inset 0px 1px 2px rgba(10, 15, 26, 0.08);
         min-width: ${minWidth};
         color: white;
