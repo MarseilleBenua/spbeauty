@@ -15,7 +15,7 @@ const Input = styled.input`
     color: #152842;
     width: 100%;
     &:hover {
-        background: linear-gradient(180deg, #DFEAF1 0%, #CFDDE8 100%);
+        background: #F8FAFC;
     }
     &:focus {
         background: white;
