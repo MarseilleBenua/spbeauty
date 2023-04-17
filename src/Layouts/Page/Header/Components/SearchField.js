@@ -25,7 +25,7 @@ const Input = styled.input`
 const SearchIconWrapper = styled.div`
     position: absolute;
     box-sizing:border-box;
-    right: px;  /* Здесь можно добавить отступ от правого края, чтобы сдвинуть иконку левее */
+    right: 16px;  /* Здесь можно добавить отступ от правого края, чтобы сдвинуть иконку левее */
     top:50%;
     transform: translateY(-50%);
 `;
